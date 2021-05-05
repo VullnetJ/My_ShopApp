@@ -2,9 +2,9 @@
 
 Technologies used in the app include: 
 
-react-native-async-storate/async-storage.
-
 createStackNavigator, createDrawerNavigator, createSwitchNavigator, createAppContainer, DrawerItems from 'react-navigation' for managing transition between screens, for opening and closing via gesture, for showing only one screens so the users can not go back after authenticated. 
+
+react-native-async-storate/async-storage an asyncronous, key-value storage API. 
 
 expo-app-loading for keeping the splash screen visible while AppLoading componentet is mounted. 
 
