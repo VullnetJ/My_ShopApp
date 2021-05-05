@@ -27,3 +27,5 @@ CombineRecuers, CreateStore and applyMiddleware from redux to combine results in
 Provider from 'react-redux' to make redux store available to nested components. 
 
 ReduxThunk from 'redux-thunk' a middleware that allows to return functions, rather than action with Redux. 
+
+![IMG_0502](https://user-images.githubusercontent.com/46821353/117223629-bc80c000-ae16-11eb-8362-e4cf931d346f.jpg)
