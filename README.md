@@ -29,3 +29,8 @@ Provider from 'react-redux' to make redux store available to nested components.
 ReduxThunk from 'redux-thunk' a middleware that allows to return functions, rather than action with Redux. 
 
 ![IMG_0502](https://user-images.githubusercontent.com/46821353/117223629-bc80c000-ae16-11eb-8362-e4cf931d346f.jpg)
+
+![IMG_0504](https://user-images.githubusercontent.com/46821353/117223712-f05be580-ae16-11eb-8c23-4bcc14520649.jpg)
+
+![IMG_0503](https://user-images.githubusercontent.com/46821353/117223729-f5b93000-ae16-11eb-96a3-b22ddd703e78.PNG)
+
