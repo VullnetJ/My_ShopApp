@@ -1,7 +1,7 @@
 # My_ShopApp
 
 Technologies used in the app include: 
-react-native-async-storate/async-storage,
+react-native-async-storate/async-storage.
 expo-app-loading for keeping the splash screen visible while AppLoading componentet is mounted. 
 expo-font for loading custom fonts that are stored locally. 
 expo-linear-gradient for making first screen to have different colors in a linear direction. 
